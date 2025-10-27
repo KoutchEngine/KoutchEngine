@@ -1,3 +1,10 @@
-hi
+# Hi, I'm Koutch.
 
-just filling this out cause yknow github and stuff. anyway hi i'm koutch i code in PHP, C#, python and lua. cya
+I like to:
+* Code in languages, like PHP, Lua, node.js or Ruby
+* Make games
+* Make projects and then cancel them
+* Be stupid
+
+I am:
+* An idiot
